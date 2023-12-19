@@ -1,0 +1,14 @@
+*.DS_Store
+/.idea/
+__pycache__
+**/*.log
+**/log/*
+**/fg-data/*
+**/*.hold
+/.dockerignore
+build/
+floodgate.egg-info/
+crux_floodgate.egg-info/
+cruxfloodgate.egg-info/
+**/*.whl
+/venv/
